@@ -1,0 +1,1 @@
+g++ -std=c++2a -g -DNDEBUG -I ~/include -L ~/lib RankSupport.cpp -o program -lsdsl -ldivsufsort -ldivsufsort64
